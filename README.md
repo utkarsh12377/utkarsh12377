@@ -15,14 +15,17 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,git,github,linux" />
 
 ---
-
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh12377&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh12377&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=utkarsh12377&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh12377&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
