@@ -19,7 +19,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=utkarsh12377&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=utkarsh12377&show_icons=true&theme=default
+&hide_border=true"
     height="165"
   />
   <img
